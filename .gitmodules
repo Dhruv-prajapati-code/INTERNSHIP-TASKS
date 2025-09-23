@@ -1,3 +1,6 @@
 [submodule "Sept/week-4/day1/Sept/week-4/day1/GITHUB_ACRIONS-PRACTICE"]
 	path = Sept/week-4/day1/Sept/week-4/day1/GITHUB_ACRIONS-PRACTICE
 	url = https://github.com/Dhruv-prajapati-code/GITHUB_ACRIONS-PRACTICE.git
+[submodule "Sept/week-4/day2/github-action-docker-workflow"]
+	path = Sept/week-4/day2/github-action-docker-workflow
+	url = git@github.com:Dhruv-prajapati-code/github-action-task.git
