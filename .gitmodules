@@ -4,3 +4,12 @@
 [submodule "Sept/week-4/day2/github-action-docker-workflow"]
 	path = Sept/week-4/day2/github-action-docker-workflow
 	url = git@github.com:Dhruv-prajapati-code/github-action-task.git
+[submodule "Sept/week-4/day3/Shared-Workflow-private"]
+	path = Sept/week-4/day3/Shared-Workflow-private
+	url = git@github.com:Dhruv-prajapati-code/Shared-Workflow-private.git
+[submodule "Sept/week-4/day3/Use-Shared-Workflow"]
+	path = Sept/week-4/day3/Use-Shared-Workflow
+	url = git@github.com:Dhruv-prajapati-code/Use-Shared-Workflow.git
+[submodule "Sept/week-4/Testday/App-repository-TEST4"]
+	path = Sept/week-4/Testday/App-repository-TEST4
+	url = git@github.com:Dhruv-prajapati-code/App-repository-TEST4.git
