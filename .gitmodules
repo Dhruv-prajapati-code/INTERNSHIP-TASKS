@@ -13,3 +13,6 @@
 [submodule "Sept/week-4/Testday/App-repository-TEST4"]
 	path = Sept/week-4/Testday/App-repository-TEST4
 	url = git@github.com:Dhruv-prajapati-code/App-repository-TEST4.git
+[submodule "Sept/week-4/Testday/Workflow-TEST4"]
+	path = Sept/week-4/Testday/Workflow-TEST4
+	url = git@github.com:Dhruv-prajapati-code/Workflow-TEST4.git
