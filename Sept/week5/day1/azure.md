@@ -9,5 +9,8 @@
 > Microsoft enfra ID similar to IAM in AWS  
 > Azure Moniter similar to Cloud Watch in AWS  
 
-![filters image]()
+![filters image](https://github.com/Dhruv-prajapati-code/INTERNSHIP-TASKS/blob/53e2ca50848a642b7142164752e1bcc7d4f93352/Sept/week5/day1/Screenshot%20(176).png)  
+![filters image](https://github.com/Dhruv-prajapati-code/INTERNSHIP-TASKS/blob/53e2ca50848a642b7142164752e1bcc7d4f93352/Sept/week5/day1/Screenshot%20(178).png)  
+![filters image](https://github.com/Dhruv-prajapati-code/INTERNSHIP-TASKS/blob/53e2ca50848a642b7142164752e1bcc7d4f93352/Sept/week5/day1/Screenshot%20(179).png)  
+
 
